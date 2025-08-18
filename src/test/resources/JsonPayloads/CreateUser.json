@@ -1,0 +1,15 @@
+{
+    "name": "${__RandomString(10)}",
+    "job": "Automation Test Engineer",
+    "location": "Chennai",
+    "phone": "${__RandomPhone(10)}",
+    "courses": [
+        "Java",
+        "RestAssured",
+		"C",
+		"C++",
+		".Net",
+		"Azure Devops"
+    ]
+	
+}

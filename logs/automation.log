@@ -1,0 +1,3 @@
+20:44:23.150 [main] INFO  api.tests.UserTests2 - ********* User Is Updated *********
+20:44:25.068 [main] INFO  api.tests.UserTests2 - ********* Deleting User *********
+20:44:26.697 [main] INFO  api.tests.UserTests2 - ********* User Is Deleted *********
