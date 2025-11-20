@@ -1,15 +1,10 @@
 {
-    "name": "${__RandomString(10)}",
-    "job": "Automation Test Engineer",
-    "location": "Chennai",
-    "phone": "${__RandomPhone(10)}",
-    "courses": [
-        "Java",
-        "RestAssured",
-		"C",
-		"C++",
-		".Net",
-		"Azure Devops"
-    ]
-	
+  "id": ${__RandomString(8)},
+  "username": "string",
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "password": "string",
+  "phone": "string",
+  "userStatus": 0
 }

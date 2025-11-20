@@ -16,8 +16,8 @@ import org.testng.annotations.Test;
 import api.endpoints.userendpoints;
 import api.endpoints.userendpoints2;
 import api.payloads.userRequest;
-import api.utilities.JsonUtilities;
 import io.restassured.response.Response;
+import utilities.JsonUtilities;
 
 
 
